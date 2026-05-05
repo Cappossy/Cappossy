@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Salut, moi c’est Cappossy
 
-<!--
-**Cappossy/Cappossy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Passionné par le développement
+💻 J’aime expérimenter avec différentes technos et apprendre en construisant
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Compétences
+🌐 Web
+HTML ✅
+CSS / SCSS ✅
+JavaScript ✅
+💻 Programmation
+C# (débutant)
+Java (notions de base)
+🎨 Shaders & Graphismes
+ShaderLab
+GLSL
+🛠️ Ce que je fais
+🎮 Développement de jeux (Roblox / Unreal Engine 5)
+🔧 Mods Minecraft
+🌐 Sites web (front-end)
+✨ Expérimentation avec les shaders
+📚 En apprentissage
+C# (Unity, logique de gameplay)
+Java (progression)
+Systèmes plus avancés en développement
+🎯 Objectifs
+Créer mes propres jeux complets
+Devenir meilleur en programmation
+Construire des projets propres et stylés
