@@ -31,5 +31,4 @@
 ## 🎯 Objectifs
 
 - Créer mes propres jeux complets  
-- Devenir meilleur en programmation  
-- Construire des projets stylés et immersifs  
+- Devenir meilleur en programmation    
