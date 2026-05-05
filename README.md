@@ -5,25 +5,16 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack                          ## 🛠️ Ce que je fais
 
-- 🟢 HTML
-- 🟢 CSS / SCSS
-- 🟢 JavaScript
-- 🟢 Lua (Garry's Mod)
+- 🟢 HTML                                 - 🎮 Développement de jeux (Roblox / Unreal Engine 5 / S&box)
+- 🟢 CSS / SCSS                           - 🔧 Mods & scripts (Minecraft / Garry’s Mod)
+- 🟢 JavaScript                           - 🌐 Création de sites web
+- 🟢 Lua (Garry's Mod)                    - 🎨 Shaders & effets visuels
 - 🟡 C# (en apprentissage avec S&box)
 - 🟡 Java (bases mod minecraft)
 - ✨ ShaderLab (en apprentissage avec S&box)
 - ✨ GLSL (en apprentissage avec S&box)
-
----
-
-## 🛠️ Ce que je fais
-
-- 🎮 Développement de jeux (Roblox / Unreal Engine 5 / S&box)
-- 🔧 Mods & scripts (Minecraft / Garry’s Mod)
-- 🌐 Création de sites web
-- 🎨 Shaders & effets visuels
 
 ---
 
