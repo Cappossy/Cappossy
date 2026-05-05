@@ -7,17 +7,12 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Web
 - 🟢 HTML
 - 🟢 CSS / SCSS
 - 🟢 JavaScript
-
-### 💻 Programmation
 - 🟢 Lua (Garry's Mod)
 - 🟡 C# (en apprentissage avec S&box)
 - 🟡 Java (bases mod minecraft)
-
-### 🎨 Shaders & Graphismes
 - ✨ ShaderLab (en apprentissage avec S&box)
 - ✨ GLSL (en apprentissage avec S&box)
 
