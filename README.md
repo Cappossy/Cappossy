@@ -5,16 +5,18 @@
 
 ---
 
-## 🚀 Tech Stack                          ## 🛠️ Ce que je fais
+## 🚀 Tech & Activités
 
-- 🟢 HTML                                 - 🎮 Développement de jeux (Roblox / Unreal Engine 5 / S&box)
-- 🟢 CSS / SCSS                           - 🔧 Mods & scripts (Minecraft / Garry’s Mod)
-- 🟢 JavaScript                           - 🌐 Création de sites web
-- 🟢 Lua (Garry's Mod)                    - 🎨 Shaders & effets visuels
-- 🟡 C# (en apprentissage avec S&box)
-- 🟡 Java (bases mod minecraft)
-- ✨ ShaderLab (en apprentissage avec S&box)
-- ✨ GLSL (en apprentissage avec S&box)
+| 💻 Tech Stack | 🛠️ Ce que je fais |
+|--------------|------------------|
+| 🟢 HTML | 🎮 Développement de jeux (Roblox / Unreal Engine 5 / S&box) |
+| 🟢 CSS / SCSS | 🔧 Mods & scripts (Minecraft / Garry’s Mod) |
+| 🟢 JavaScript | 🌐 Création de sites web |
+| 🟢 Lua (Garry's Mod) | 🎨 Shaders & effets visuels |
+| 🟡 C# (S&box - débutant) |  |
+| 🟡 Java (bases / mods Minecraft) |  |
+| ✨ ShaderLab (S&box) |  |
+| ✨ GLSL (S&box) |  |
 
 ---
 
@@ -28,6 +30,6 @@
 
 ## 🎯 Objectifs
 
-- Créer mes propres jeux complets
-- Devenir meilleur en programmation
-- Construire des projets stylés et immersifs
+- Créer mes propres jeux complets  
+- Devenir meilleur en programmation  
+- Construire des projets stylés et immersifs  
