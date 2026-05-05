@@ -27,7 +27,7 @@
 
 - 🎮 Développement de jeux (Roblox / Unreal Engine 5 / S&box)
 - 🔧 Mods & scripts (Minecraft / Garry’s Mod)
-- 🌐 Création de sites web (front-end)
+- 🌐 Création de sites web
 - 🎨 Shaders & effets visuels
 
 ---
